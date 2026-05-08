@@ -1,4 +1,4 @@
-const BASE_URL = 'http://127.0.0.1:8000'
+const BASE_URL = 'https://team-task-manager-production-659b.up.railway.app'
 
 function getToken() {
   return localStorage.getItem('token')
